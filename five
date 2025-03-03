@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+set -x
+
+mkdir sakthi
+
+touch kumar
+
+chmod 777 sakthi kumar

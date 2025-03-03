@@ -8,3 +8,5 @@ free
 
 ps -ef 
 
+
+bingo
